@@ -61,6 +61,7 @@ ol {
 }
 /* #gird 바로 아래에 있는 메뉴용 ol만 선택*/
 #grid > ol {
+    color: #5d4037;
     border-right: 3px solid burlywood;
     width: 100px;
     height: 100%;
@@ -74,7 +75,7 @@ ol {
     font-weight: bold;
     
     /*글자 그림자 */
-    text-shadow: 3px 3px 6px rgba(160, 109, 66, 0.58); 
+    text-shadow: 0px 0px 5px rgba(138, 94, 47, 0.74); 
 }
 
 #zoo {
