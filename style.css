@@ -38,6 +38,7 @@ h1 a{
     border-radius: 15px; /* 모서리 둥글게 */
     display: inline-block; /* 배경 글자 크기에 맞게 */
     color: #5d4037; 
+    text-decoration : none; /* 밑줄 제거 */
 }
 
 h3 {
