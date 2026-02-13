@@ -65,9 +65,15 @@ ol {
     width: 100px;
     height: 100%;
     padding-left: 33px;
+
+    /* 글자 크기*/
+    font-size: 20px;
+    /* 인덱스 줄 간격*/
+    line-height: 3.5;
+    
     font-weight: bold;
-    line-height: 2.5;
-    /*글자에 그림자 효과*/
+    
+    /*글자 그림자 */
     text-shadow: 3px 3px 6px rgba(160, 109, 66, 0.58); 
 }
 
