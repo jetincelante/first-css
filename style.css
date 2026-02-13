@@ -1,6 +1,10 @@
 @font-face {
-font-family: 'MyNotoSans';
+font-family: 'JeonjuCraft';
 src: url('./TTF/JeonjuCraft_Mj_Light.ttf') format('truetype');
+}
+
+* {
+    font-family: 'JeonjuCraft', serif !important;
 }
 
 body {
