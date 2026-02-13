@@ -50,14 +50,20 @@ ol {
     width: 100px;
     margin: 0;
     padding: 25px;
+    height: 100%;
 }
 
 #grid {
     display: grid;
     grid-template-columns: 150px 1fr;
+     /* 내용 없어도 화면 높이 꽉 채우기*/
+    min-height: 100vh; 
 }
-
+/*왼쪽 메뉴 전용ol*/
 #grid ol {
+    border-right: 3px solid burlywood;
+    width: 100px;
+    height: 100%;
     padding-left: 33px;
     font-weight: bold;
     line-height: 2.5;
