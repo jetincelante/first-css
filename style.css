@@ -60,7 +60,7 @@ ol {
     min-height: 100vh; 
 }
 /* #gird 바로 아래에 있는 메뉴용 ol만 선택*/
-#grid > ol {
+#grid > ol, #grid > ol a /*인덱스 숫자,문자 모두 적용*/{
     color: #5d4037;
     border-right: 3px solid burlywood;
     width: 100px;
