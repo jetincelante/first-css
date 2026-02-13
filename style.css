@@ -60,22 +60,21 @@ ol {
     min-height: 100vh; 
 }
 /* #gird 바로 아래에 있는 메뉴용 ol만 선택*/
-#grid > ol, #grid > ol a /*인덱스 숫자,문자 모두 적용*/{
-    color: #5d4037;
+#grid > ol {
     border-right: 3px solid burlywood;
-    width: 150px;
+    width: 100px;
     height: 100%;
     padding-left: 33px;
 
     /* 글자 크기*/
-    font-size: 17px;
+    font-size: 20px;
     /* 인덱스 줄 간격*/
     line-height: 3.5;
     
     font-weight: bold;
     
     /*글자 그림자 */
-    text-shadow: 0px 0px 5px rgba(138, 94, 47, 0.74); 
+    text-shadow: 3px 3px 6px rgba(160, 109, 66, 0.58); 
 }
 
 #zoo {
