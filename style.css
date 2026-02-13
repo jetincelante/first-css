@@ -63,7 +63,7 @@ ol {
 #grid > ol, #grid > ol a /*인덱스 숫자,문자 모두 적용*/{
     color: #5d4037;
     border-right: 3px solid burlywood;
-    width: 100px;
+    width: 150px;
     height: 100%;
     padding-left: 33px;
 
