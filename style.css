@@ -67,14 +67,14 @@ ol {
     padding-left: 33px;
 
     /* 글자 크기*/
-    font-size: 20px;
+    font-size: 17px;
     /* 인덱스 줄 간격*/
     line-height: 3.5;
     
     font-weight: bold;
     
     /*글자 그림자 */
-    text-shadow: 3px 3px 6px rgba(160, 109, 66, 0.58); 
+    text-shadow: 0px 0px 5px rgba(138, 94, 47, 0.74); 
 }
 
 #zoo {
