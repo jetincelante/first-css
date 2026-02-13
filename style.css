@@ -1,13 +1,6 @@
-body {
-    background-color: red !important;
-}
-
-
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700&display=swap');
-
-/* 폰트 강제 적용 */
-* {
-    font-family: 'Noto Sans KR', sans-serif !important;
+@font-face {
+font-family: 'MyNotoSans';
+src: url('./TTF/JeonjuCraft_Mj_Light.ttf') format('truetype');
 }
 
 body {
